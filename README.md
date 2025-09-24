@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, I'm Bobmanuel  
 
-<!--
-**BobtoneCODEX/BobtoneCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:  
+- A **ride app** built with Flutter 🚗  
+- A **Trust Coin app** 💰  
+- Fun **JavaScript projects** (Age Calculator, Portfolio, etc.)  
 
-Here are some ideas to get you started:
+bout:  
+- **Flutter, JavaScript, HTML, CSS**  
+- Designing prototypes in **Figma**  
+- Adding **ChatGPT/AI features** to apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- GitHub: [BobtoneCODEX](https://github.com/BobtoneCOD)  
+- Email: *[bobmanuel@gmail.com]*  
+
+😄 Pronouns: He/Him  
+
+⚡ Fun fact: I play the **saxophone 🎷** and also create saxophone-related content!  
