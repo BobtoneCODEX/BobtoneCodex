@@ -1,10 +1,4 @@
 ### Hi there 👋, I'm Bobmanuel  
-
-🔭 I’m currently working on:  
-- A **ride app** built with Flutter 🚗  
-- A **Trust Coin app** 💰  
-- Fun **JavaScript projects** (Age Calculator, Portfolio, etc.)  
-
 bout:  
 - **Flutter, JavaScript, HTML, CSS**  
 - Designing prototypes in **Figma**  
